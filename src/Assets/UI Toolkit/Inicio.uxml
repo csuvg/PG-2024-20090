@@ -1,0 +1,58 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement name="CanvasPrincipal" style="flex-grow: 1; background-color: rgb(41, 41, 41);">
+        <ui:VisualElement name="ContenedorBienvenida" style="flex-grow: 0; flex-shrink: 0; width: 100%; height: 50%; justify-content: center; align-items: center;">
+            <ui:VisualElement name="MathFormulas" style="flex-grow: 0; position: absolute; flex-shrink: 0; width: 140%; height: 120%; background-image: url(&apos;project://database/Assets/ImagenesUI/pngwing.com.png?fileID=21300000&amp;guid=b948bba0547db4c53989b56db91e7928&amp;type=3#pngwing.com&apos;); rotate: 16deg;" />
+            <ui:VisualElement name="Contenedor" style="flex-grow: 0; flex-shrink: 0; width: 90%; height: 100%; align-items: flex-start; justify-content: center;">
+                <ui:Label tabindex="-1" text="Bienvenidos a" parse-escape-sequences="true" display-tooltip-when-elided="true" style="color: rgb(255, 255, 255); font-size: 130px;" />
+                <ui:VisualElement name="Contenedor" style="flex-grow: 0; flex-shrink: 0; width: 90%; height: 20%; align-items: flex-start; justify-content: flex-start; flex-direction: row;">
+                    <ui:Label tabindex="-1" text="AR Tour" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Label" style="color: rgb(255, 255, 255); font-size: 180px; -unity-font-style: bold;" />
+                    <ui:VisualElement name="Dragon" style="flex-grow: 0; background-image: url(&apos;project://database/Assets/ImagenesUI/JackSaludandoBocaAbierta.png?fileID=21300000&amp;guid=3472123883c28421a8b10bba2ea023d7&amp;type=3#JackSaludandoBocaAbierta&apos;); flex-shrink: 0; width: 667px; height: 900px; position: absolute; translate: 665px 119px;" />
+                </ui:VisualElement>
+            </ui:VisualElement>
+        </ui:VisualElement>
+        <ui:VisualElement name="ContenedorRutas" style="flex-grow: 0; flex-shrink: 0; width: 100%; height: 50%; justify-content: flex-end;">
+            <ui:VisualElement name="ContenedorRutaExpress" style="flex-grow: 0; flex-shrink: 0; width: 100%; height: 50%; background-color: rgb(87, 204, 153); border-top-left-radius: 150px; border-top-right-radius: 150px; border-bottom-right-radius: 0; border-bottom-left-radius: 0; translate: 0 650px;">
+                <ui:VisualElement name="ContenedorInformacion" style="flex-grow: 0; flex-shrink: 0; width: 100%; height: 50%; align-items: center; translate: 0 50px;">
+                    <ui:VisualElement name="ContenedorArriba" style="flex-grow: 0; flex-shrink: 0; width: 80%; height: 50%; flex-direction: row; justify-content: space-between;">
+                        <ui:VisualElement name="BurbujaNegra" style="flex-grow: 0; flex-shrink: 0; width: 170px; height: 170px; background-color: rgba(0, 0, 0, 0.48); border-top-left-radius: 195px; border-top-right-radius: 195px; border-bottom-right-radius: 195px; border-bottom-left-radius: 195px; align-items: center; justify-content: center;">
+                            <ui:VisualElement name="Icono" style="flex-grow: 0; background-image: url(&apos;project://database/Assets/ImagenesUI/icons8-exercise-skin-type-2-96.png?fileID=21300000&amp;guid=ab420707fe79c4f30997ccc6c39fb835&amp;type=3#icons8-exercise-skin-type-2-96&apos;); width: 120px; height: 120px; flex-shrink: 0;" />
+                        </ui:VisualElement>
+                        <ui:Button parse-escape-sequences="true" display-tooltip-when-elided="true" name="boton_ruta_express" style="width: 100%; background-color: rgba(188, 188, 188, 0); font-size: 50px; border-left-color: rgba(149, 149, 149, 0); border-right-color: rgba(149, 149, 149, 0); border-top-color: rgba(149, 149, 149, 0); border-bottom-color: rgba(149, 149, 149, 0); position: absolute; height: 200%;" />
+                    </ui:VisualElement>
+                    <ui:VisualElement name="ContenedorAbajo" style="flex-grow: 0; flex-shrink: 0; width: 80%; height: 50%; flex-direction: row; justify-content: space-between; align-items: center;">
+                        <ui:Label tabindex="-1" text="Ruta express" parse-escape-sequences="true" display-tooltip-when-elided="true" style="font-size: 80px;" />
+                        <ui:Label tabindex="-1" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Label" style="font-size: 80px;" />
+                    </ui:VisualElement>
+                </ui:VisualElement>
+            </ui:VisualElement>
+            <ui:VisualElement name="ContenedorRutaCompleta" style="flex-grow: 0; flex-shrink: 0; width: 100%; height: 50%; background-color: rgb(128, 237, 153); border-top-left-radius: 150px; border-top-right-radius: 150px; border-bottom-right-radius: 0; border-bottom-left-radius: 0; translate: 0 370px;">
+                <ui:VisualElement name="ContenedorInformacion" style="flex-grow: 0; flex-shrink: 0; width: 100%; height: 50%; align-items: center; translate: 0 50px;">
+                    <ui:VisualElement name="ContenedorArriba" style="flex-grow: 0; flex-shrink: 0; width: 80%; height: 50%; flex-direction: row; justify-content: space-between;">
+                        <ui:VisualElement name="BurbujaNegra" style="flex-grow: 0; flex-shrink: 0; width: 170px; height: 170px; background-color: rgba(0, 0, 0, 0.48); border-top-left-radius: 195px; border-top-right-radius: 195px; border-bottom-right-radius: 195px; border-bottom-left-radius: 195px; align-items: center; justify-content: center;">
+                            <ui:VisualElement name="Icono" style="flex-grow: 0; background-image: url(&apos;project://database/Assets/ImagenesUI/icons8-walking-skin-type-2-96.png?fileID=21300000&amp;guid=d7b58a17aeb164cab9cc272f4c3ee1e1&amp;type=3#icons8-walking-skin-type-2-96&apos;); width: 120px; height: 120px; flex-shrink: 0;" />
+                        </ui:VisualElement>
+                        <ui:Button parse-escape-sequences="true" display-tooltip-when-elided="true" name="boton_ruta_completa" style="width: 100%; background-color: rgba(188, 188, 188, 0); font-size: 50px; border-left-color: rgba(149, 149, 149, 0); border-right-color: rgba(149, 149, 149, 0); border-top-color: rgba(149, 149, 149, 0); border-bottom-color: rgba(149, 149, 149, 0); position: absolute; height: 200%;" />
+                    </ui:VisualElement>
+                    <ui:VisualElement name="ContenedorAbajo" style="flex-grow: 0; flex-shrink: 0; width: 80%; height: 50%; flex-direction: row; justify-content: space-between; align-items: center;">
+                        <ui:Label tabindex="-1" text="Ruta completa" parse-escape-sequences="true" display-tooltip-when-elided="true" style="font-size: 80px;" />
+                        <ui:Label tabindex="-1" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Label" style="font-size: 80px;" />
+                    </ui:VisualElement>
+                </ui:VisualElement>
+            </ui:VisualElement>
+            <ui:VisualElement name="ContenedorMisc" style="flex-grow: 0; flex-shrink: 0; width: 100%; height: 50%; background-color: rgb(199, 249, 204); border-top-left-radius: 150px; border-top-right-radius: 150px; border-bottom-right-radius: 0; border-bottom-left-radius: 0; translate: 0 100px;">
+                <ui:VisualElement name="ContenedorInformacion" style="flex-grow: 0; flex-shrink: 0; width: 100%; height: 50%; align-items: center; translate: 0 100px;">
+                    <ui:VisualElement name="ContenedorArriba" style="flex-grow: 0; flex-shrink: 0; width: 80%; height: 50%; flex-direction: row; justify-content: space-between;">
+                        <ui:VisualElement name="BurbujaNegra" style="flex-grow: 0; flex-shrink: 0; width: 170px; height: 170px; background-color: rgba(0, 0, 0, 0.48); border-top-left-radius: 195px; border-top-right-radius: 195px; border-bottom-right-radius: 195px; border-bottom-left-radius: 195px; align-items: center; justify-content: center;">
+                            <ui:VisualElement name="Icono" style="flex-grow: 0; background-image: url(&apos;project://database/Assets/ImagenesUI/icons8-table-tennis-skin-type-2-96.png?fileID=21300000&amp;guid=a9f9fb1283c4645b58d62f60ad9569c2&amp;type=3#icons8-table-tennis-skin-type-2-96&apos;); width: 120px; height: 120px; flex-shrink: 0;" />
+                        </ui:VisualElement>
+                        <ui:Button text="Ir a videojuegos" parse-escape-sequences="true" display-tooltip-when-elided="true" name="boton_ir_a_videojuegos" style="width: 40%; background-color: rgba(188, 188, 188, 0); font-size: 50px; border-left-color: rgba(149, 149, 149, 0); border-right-color: rgba(149, 149, 149, 0); border-top-color: rgba(149, 149, 149, 0); border-bottom-color: rgba(149, 149, 149, 0);" />
+                    </ui:VisualElement>
+                    <ui:VisualElement name="ContenedorAbajo" style="flex-grow: 0; flex-shrink: 0; width: 80%; height: 50%; flex-direction: row; justify-content: space-between; align-items: center;">
+                        <ui:Label tabindex="-1" text="Jugar" parse-escape-sequences="true" display-tooltip-when-elided="true" style="font-size: 80px;" />
+                        <ui:Label tabindex="-1" text="3 minijuegos" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Label" style="font-size: 80px;" />
+                    </ui:VisualElement>
+                </ui:VisualElement>
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

@@ -1,0 +1,32 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/estilos.uss?fileID=7433441132597879392&amp;guid=210c75e84e6ae4b80a2db4591d367ee2&amp;type=3#estilos" />
+    <ui:VisualElement name="CanvasPrincipal" style="flex-grow: 1; background-color: rgb(41, 41, 41);">
+        <ui:VisualElement style="flex-grow: 0; flex-shrink: 0; width: 100%; height: 20%; background-color: rgb(41, 41, 41); justify-content: center;">
+            <ui:VisualElement name="ContenedorNavbar" style="flex-grow: 0; width: 100%; flex-shrink: 0; height: 50%; flex-direction: row;">
+                <ui:VisualElement name="ContenedorRegresar" style="flex-grow: 0; flex-shrink: 0; height: 100%; width: 40%; flex-direction: row; align-self: auto; align-items: center; justify-content: space-around; margin-left: 50px;">
+                    <ui:VisualElement name="FlechaRegresar" style="flex-grow: 0; flex-shrink: 0; width: 90px; height: 90px; background-image: url(&apos;project://database/Assets/ImagenesUI/icons8-izquierda-96.png?fileID=21300000&amp;guid=ec3ded4c9481e4812a1c31ddcea24515&amp;type=3#icons8-izquierda-96&apos;);" />
+                    <ui:Label tabindex="-1" text="Regresar" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Label" style="background-color: rgba(255, 255, 255, 0); color: rgb(255, 255, 255); font-size: 60px; -unity-font-style: bold;" />
+                    <ui:Button parse-escape-sequences="true" display-tooltip-when-elided="true" name="boton_regresar_a_recorrido" style="position: absolute; width: 100%; height: 100%; background-color: rgba(188, 188, 188, 0); border-left-color: rgba(149, 149, 149, 0); border-right-color: rgba(149, 149, 149, 0); border-top-color: rgba(149, 149, 149, 0); border-bottom-color: rgba(149, 149, 149, 0);" />
+                </ui:VisualElement>
+                <ui:VisualElement name="ContenedorLogo" style="flex-grow: 1; justify-content: center; align-items: flex-end; margin-right: 50px;">
+                    <ui:VisualElement name="LogoUVG" style="flex-grow: 0; background-image: url(&apos;project://database/Assets/ImagenesUI/image%204.png?fileID=21300000&amp;guid=4e348471ba39a4d40b2f2e72b2ae1acc&amp;type=3#image 4&apos;); flex-shrink: 0; width: 120px; height: 120px;" />
+                </ui:VisualElement>
+            </ui:VisualElement>
+        </ui:VisualElement>
+        <ui:ScrollView horizontal-scroller-visibility="Hidden" vertical-scroller-visibility="Hidden" style="flex-shrink: 0; width: 100%; height: 80%;">
+            <ui:VisualElement style="flex-grow: 0; flex-shrink: 0; width: 100%; height: 50%; background-color: rgb(41, 41, 41); align-items: center; justify-content: center;">
+                <ui:Label tabindex="-1" text="Admisiones etc.." parse-escape-sequences="true" display-tooltip-when-elided="true" name="objeto_dinamico_texto_punto_actual" style="white-space: normal; -unity-text-align: upper-center; color: rgb(255, 255, 255); font-size: 80px; width: 80%; -unity-font-style: bold; margin-bottom: 50px;" />
+                <ui:Label tabindex="-1" text="Aquí encontrarás toda la información necesaria en cuanto al&#10;proceso de admisión y de todas las carreras que ofrecemos.&#10;Puedes acercarte para poder resolver tus dudas." parse-escape-sequences="true" display-tooltip-when-elided="true" name="objeto_dinamico_texto_informacion_punto_actual" style="white-space: normal; -unity-text-align: upper-center; color: rgb(255, 255, 255); font-size: 50px; width: 80%;" />
+            </ui:VisualElement>
+            <ui:VisualElement style="flex-grow: 0; flex-shrink: 0; width: 100%; height: 100%; background-color: rgb(41, 41, 41);">
+                <ui:VisualElement name="Imagen" style="flex-grow: 0; flex-shrink: 0; width: 100%; height: 50%; align-items: center; justify-content: center;">
+                    <ui:VisualElement name="objeto_dinamico_imagen_punto_actual" style="flex-grow: 0; flex-shrink: 0; width: 80%; height: 90%; background-image: url(&apos;project://database/Assets/ImagenesUI/PlazaPaiz.jpg?fileID=21300000&amp;guid=f88ec1ecbee504de8a4708847f143716&amp;type=3#PlazaPaiz&apos;); border-top-left-radius: 50px; border-top-right-radius: 50px; border-bottom-right-radius: 50px; border-bottom-left-radius: 50px;" />
+                </ui:VisualElement>
+                <ui:VisualElement name="Modelo" style="flex-grow: 0; flex-shrink: 0; width: 100%; height: 50%; justify-content: center; align-items: center; margin-top: 100px;">
+                    <ui:VisualElement name="objeto_dinamico_video_punto_actual" class="videoprueba" style="flex-grow: 0; flex-shrink: 0; width: 960px; height: 960px; background-image: url(&apos;project://database/Assets/VideosUI/pruebaRT.renderTexture?fileID=8400000&amp;guid=fe0a2775e0aef4de483920f135eb92f7&amp;type=2#pruebaRT&apos;); border-top-left-radius: 50px; border-top-right-radius: 50px; border-bottom-right-radius: 50px; border-bottom-left-radius: 50px;" />
+                </ui:VisualElement>
+                <ui:VisualElement name="Imagen" style="flex-grow: 0; flex-shrink: 0; width: 100%; height: 50%; align-items: center; justify-content: center; background-color: rgba(0, 0, 0, 0);" />
+            </ui:VisualElement>
+        </ui:ScrollView>
+    </ui:VisualElement>
+</ui:UXML>

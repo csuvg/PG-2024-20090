@@ -1,0 +1,4 @@
+repository "ARTour@ARTourUVG@cloud"
+  path "/"
+    br "/main"
+    co "/main"
