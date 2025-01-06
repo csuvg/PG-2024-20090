@@ -1,0 +1,307 @@
+-----------------------------------
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:283)
+
+System.Collections.Generic.List`1[Route]
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:284)
+
+Target: 
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:300)
+
+Admisiones y Recepción
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:301)
+
+1
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:302)
+
+Target: 
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:300)
+
+Elevadores 2
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:301)
+
+2
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:302)
+
+Target: 
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:300)
+
+Marketspace D-HIVE
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:301)
+
+3
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:302)
+
+Target: 
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:300)
+
+Planta Alimentaria
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:301)
+
+4
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:302)
+
+Target: 
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:300)
+
+Elevadores 1
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:301)
+
+5
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:302)
+
+Target: 
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:300)
+
+Finanzas Avanzadas
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:301)
+
+6
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:302)
+
+Target: 
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:300)
+
+Procesos Industriales
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:301)
+
+7
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:302)
+
+Target: 
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:300)
+
+Mariposario
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:301)
+
+8
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:302)
+
+Target: 
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:300)
+
+Elevadores 2
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:301)
+
+9
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:302)
+
+Target: 
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:300)
+
+Marketspace Steam
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:301)
+
+10
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:302)
+
+Target: 
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:300)
+
+Piezas Arqueológicas
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:301)
+
+11
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:302)
+
+Target: 
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:300)
+
+Biblioteca
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:301)
+
+12
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:302)
+
+Target: 
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:300)
+
+Elevadores 3
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:301)
+
+13
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:302)
+
+Target: 
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:300)
+
+Sala de Pensamiento Creativo
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:301)
+
+14
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:302)
+
+Target: 
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:300)
+
+Estudio de Grabación
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:301)
+
+15
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:302)
+
+Target: 
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:300)
+
+Elevadores 4
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:301)
+
+16
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:302)
+
+Target: 
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:300)
+
+&café
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:301)
+
+17
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:302)
+
+Target: 
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:300)
+
+Oficina de Maestrías
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:301)
+
+18
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:302)
+
+Target: 
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:300)
+
+Elevadores 6
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:301)
+
+19
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:302)
+
+Target: 
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:300)
+
+Hitoria UVG
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:301)
+
+20
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:302)
+
+Target: 
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:300)
+
+Terraza
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:301)
+
+21
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:302)
+
+Target: 
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:300)
+
+Fuente
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:301)
+
+22
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:302)
+
+Target: 
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:300)
+
+Anfiteatro
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:301)
+
+23
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:302)
+
+Target: 
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:300)
+
+Elevadores7
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:301)
+
+24
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:302)
+
+Target: 
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:300)
+
+Admisiones y recepción
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:301)
+
+1
+UnityEngine.Debug:Log (object)
+ControladorVistas:Start () (at Assets/Scripts/ControladorVistas.cs:302)

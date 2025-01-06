@@ -1,0 +1,16 @@
+.header {
+}
+
+.h1 {
+    -unity-font: url('project://database/Assets/Fonts/SF-Pro/SF-Pro.ttf?fileID=12800000&guid=4e08ca318d09476428d9889874994c7f&type=3#SF-Pro');
+    -unity-font-style: bold;
+    font-size: 114px;
+}
+
+.h2 {
+    font-size: 50px;
+    -unity-font: url('project://database/Assets/Fonts/SF-Pro/SF-Pro.ttf?fileID=12800000&guid=4e08ca318d09476428d9889874994c7f&type=3#SF-Pro');
+    -unity-text-align: middle-center;
+    justify-content: center;
+    align-items: center;
+}
